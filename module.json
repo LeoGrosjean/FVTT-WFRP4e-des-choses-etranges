@@ -1,0 +1,40 @@
+{
+   "name": "wfrp4e-dce",
+   "title": "Des choses étranges (WFRP4e)",
+   "description": "Custome content for Warhammer Fantary Roleplay 4e",
+   "author": "Jerome (Korad Hieronomos) & LeoH (Trask)",
+   "version": "0.8",
+   "systems": ["wfrp4e"],
+   "minimumCoreVersion": "0.5.0",
+   "packs": [
+    {
+      "name": "dce-journal",
+      "label": "Des choses étranges Notes",
+      "path": "packs/des-choses-etranges-journal.db",
+      "entity": "JournalEntry",
+      "module": "wfrp4e-dce",
+      "system": "wfrp4e"
+    },
+    {
+      "name": "dce-actors",
+      "label": "Des choses étranges Actors",
+      "path": "packs/des-choses-etranges-chars.db",
+      "entity": "Actor",
+      "module": "wfrp4e-dce",
+      "system": "wfrp4e"
+    },
+    {
+      "name": "dce-items",
+      "label": "Des choses étranges Items",
+      "path": "packs/des-choses-etranges-items.db",
+      "entity": "Item",
+      "module": "wfrp4e-dce",
+      "system": "wfrp4e"
+    }
+  ],
+  "languages": ["fr"],
+  "minimumCoreVersion": "0.6",
+  "manifest": "https://raw.githubusercontent.com/LeoGrosjean/FVTT-WFRP4e-des-choses-etranges/master/module.json",
+  "download": "https://github.com/LeoGrosjean/FVTT-WFRP4e-des-choses-etranges/archive/master.zip",
+  "url": "https://github.com/LeoGrosjean/FVTT-WFRP4e-des-choses-etranges"
+ }
