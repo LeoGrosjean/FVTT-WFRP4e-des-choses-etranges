@@ -32,7 +32,7 @@
       "system": "wfrp4e"
     }
   ],
-  "languages": ["fr"],
+  "languages": ["en"],
   "minimumCoreVersion": "0.6",
   "manifest": "https://raw.githubusercontent.com/LeoGrosjean/FVTT-WFRP4e-des-choses-etranges/master/module.json",
   "download": "https://github.com/LeoGrosjean/FVTT-WFRP4e-des-choses-etranges/archive/master.zip",
