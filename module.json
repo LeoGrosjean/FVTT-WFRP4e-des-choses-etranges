@@ -3,7 +3,7 @@
    "title": "Des choses étranges (WFRP4e)",
    "description": "Custome content for Warhammer Fantary Roleplay 4e",
    "author": "Jerome (Korad Hieronomos) & LeoH (Trask)",
-   "version": "0.91",
+   "version": "0.92",
    "systems": ["wfrp4e"],
    "minimumCoreVersion": "0.5.0",
    "packs": [
@@ -16,7 +16,7 @@
       "system": "wfrp4e"
     },
     {
-      "name": "dce-actors",
+      "name": "dce-pnj",
       "label": "Des choses étranges Actors",
       "path": "packs/des-choses-etranges-pnj.db",
       "entity": "Actor",
