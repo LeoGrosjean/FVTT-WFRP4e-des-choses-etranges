@@ -3,7 +3,7 @@
    "title": "Des choses étranges (WFRP4e)",
    "description": "Custome content for Warhammer Fantary Roleplay 4e",
    "author": "Jerome (Korad Hieronomos) & LeoH (Trask)",
-   "version": "0.991",
+   "version": "0.992",
    "systems": ["wfrp4e"],
    "minimumCoreVersion": "0.5.0",
    "packs": [
@@ -28,6 +28,14 @@
       "label": "Des choses étranges Items",
       "path": "packs/des-choses-etranges-items.db",
       "entity": "Item",
+      "module": "wfrp4e-dce",
+      "system": "wfrp4e"
+    },
+    {
+      "name": "dce-scenes",
+      "label": "Des choses étranges Scenes",
+      "path": "packs/des-choses-etranges-scenes.db",
+      "entity": "Scene",
       "module": "wfrp4e-dce",
       "system": "wfrp4e"
     }
