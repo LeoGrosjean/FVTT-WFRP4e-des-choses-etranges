@@ -3,7 +3,7 @@
    "title": "Des choses étranges (WFRP4e)",
    "description": "Custome content for Warhammer Fantary Roleplay 4e",
    "author": "Jerome (Korad Hieronomos) & LeoH (Trask)",
-   "version": "0.9996",
+   "version": "0.9997",
    "systems": ["wfrp4e"],
    "minimumCoreVersion": "0.5.0",
    "packs": [
@@ -48,7 +48,11 @@
       "system": "wfrp4e"
     }
   ],
-  "languages": ["fr"],
+  "languages": [{
+                  "lang": "fr",
+                  "name": "Français",
+                  "path": "fr.json"
+                }],
   "manifest": "https://raw.githubusercontent.com/LeoGrosjean/FVTT-WFRP4e-des-choses-etranges/master/module.json",
   "download": "https://github.com/LeoGrosjean/FVTT-WFRP4e-des-choses-etranges/archive/master.zip",
   "url": "https://github.com/LeoGrosjean/FVTT-WFRP4e-des-choses-etranges"
