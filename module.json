@@ -3,9 +3,28 @@
    "title": "Des choses étranges (WFRP4e)",
    "description": "Custome content for Warhammer Fantary Roleplay 4e",
    "author": "Jerome (Korad Hieronomos) & LeoH (Trask)",
-   "version": "1",
+   "version": "1.0.1",
    "systems": ["wfrp4e"],
    "minimumCoreVersion": "0.5.0",
+   "compatibleCoreVersion": "1.0.0",
+   "dependencies": [
+     {
+         "name": "wfrp4e",
+         "manifest": "https://raw.githubusercontent.com/CatoThe1stElder/WFRP-4th-Edition-FoundryVTT/stable/system.json",
+         "version": "1.6.0"
+     },
+     {
+         "name": "babele",
+         "manifest": "https://gitlab.com/riccisi/foundryvtt-babele/raw/master/module/module.json",
+         "version": "1.19.0"
+     },
+     {
+         "name": "WH4-fr-translation",
+         "manifest": "https://gitlab.com/LeRatierBretonnien/foundryvtt-wh4-lang-fr-fr/-/raw/master/module.json",
+         "version": "1.0.4"
+     }
+   ],
+
    "packs": [
     {
       "name": "dce-journal",
